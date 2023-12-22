@@ -10,7 +10,11 @@ icrate = { version = "0.0.4", features = [
     "Foundation",
     "AppKit",
     "AppKit_NSWorkspace",
+    "AppKit_NSRunningApplication",
     "Foundation_NSNotification",
     "Foundation_NSNotificationCenter",
     "Foundation_NSOperationQueue",
+    "Foundation_NSRunLoop",
+    "Foundation_NSDictionary",
+    "Foundation_NSString",
 ] }
